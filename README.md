@@ -1,6 +1,6 @@
 # 📊 Invoice Register & VAT Tracker
 
-This project was developed in **Microsoft Excel** and focuses on managing purchase and sales invoices through a structured invoice register. It includes automatic VAT calculations, financial summaries, Pivot Tables, and data validation features to simulate real-world accounting workflows and reporting.
+This project was developed in **Microsoft Excel** and focuses on managing purchase and sales invoices through a structured invoice register. It includes automatic VAT calculations, financial summaries, and Pivot Tables features to simulate real-world accounting workflows and reporting.
 
 ## 🛠️ Tools Used
 
