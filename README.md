@@ -1,22 +1,22 @@
-# 📊 Invoice Register & VAT Tracker
+# 📊 Registru Facturi & Monitorizare TVA
 
-This project was developed in **Microsoft Excel** and focuses on managing purchase and sales invoices through a structured invoice register. It includes automatic VAT calculations, financial summaries, and Pivot Tables features to simulate real-world accounting workflows and reporting.
+Acest proiect a fost realizat în **Microsoft Excel** și are ca scop gestionarea facturilor de achiziție și vânzare prin intermediul unui registru de facturi structurat. Proiectul include calcule automate pentru TVA, centralizarea informațiilor financiare și utilizarea Tabelelor Pivot pentru simularea fluxurilor de lucru și a raportărilor întâlnite în activitatea contabilă.
 
-## 🛠️ Tools Used
+## 🛠️ Instrumente utilizate
 
-- Microsoft Excel 365
-- Pivot Tables
-- XLOOKUP
-- Conditional Formatting
-- Financial Reporting
+* Microsoft Excel 365
+* Tabele Pivot (Pivot Tables)
+* XLOOKUP
+* Formatare condițională (Conditional Formatting)
+* Rapoarte financiare
 
-## 💡 Skills Developed
+## 💡 Competențe dezvoltate
 
-- Working with structured Excel Tables
-- Financial data analysis
-- VAT calculation and invoice management
-- Creating Pivot Tables and reports
-- Using XLOOKUP for data retrieval
-- Building organized and user-friendly spreadsheets
-- Attention to detail
-- Problem-solving
+* Lucrul cu tabele structurate în Excel
+* Analiza datelor financiare
+* Calculul TVA și gestionarea facturilor
+* Crearea Tabelelor Pivot și a rapoartelor
+* Utilizarea funcției XLOOKUP pentru regăsirea datelor
+* Realizarea de foi de calcul organizate și ușor de utilizat
+* Atenție la detalii
+* Gândire analitică și rezolvarea problemelor
